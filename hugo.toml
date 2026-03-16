@@ -2,6 +2,9 @@ baseURL = 'https://ryanlin02.github.io/'
 languageCode = 'zh-tw'
 title = '慢富'
 theme = 'PaperMod'
+
+googleAnalytics = "G-4XCW2L50FG"
+
 paginate = 10 # 首頁顯示的文章數量
 
 # 啟用 PaperMod 的特殊功能
