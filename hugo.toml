@@ -16,6 +16,7 @@ paginate = 10 # 首頁顯示的文章數量
   ShowPostNavLinks = true # 顯示上一篇/下一篇文章連結
   ShowToc = true # 預設顯示文章目錄
   tocopen = false # 目錄預設為收合
+  favicon = "/favicon.png"  # 明確指定圖示路徑
 
 # 首頁歡迎詞與文章列表設定
   [params.homeInfoParams]
