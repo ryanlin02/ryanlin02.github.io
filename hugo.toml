@@ -1,30 +1,44 @@
 baseURL = 'https://ryanlin02.github.io/'
-languageCode = 'en-us'
-title = '慢 富'
-theme = 'ananke'
+languageCode = 'zh-tw'
+title = '慢富'
+theme = 'PaperMod'
+paginate = 10 # 首頁顯示的文章數量
 
-summaryLength = 50
-paginate = 30
-
+# 啟用 PaperMod 的特殊功能
 [params]
-  copyright = "© 2026 慢富 - 版權所有"
+  env = 'production'
+  title = '慢富'
+  description = '分享理財基礎學習、AI工具應用與生活筆記'
+  author = 'Ryan'
+  defaultTheme = 'auto' # 支援日夜間模式自動切換
+  ShowReadingTime = true # 顯示閱讀時間
+  ShowShareButtons = true # 顯示分享按鈕
+  ShowPostNavLinks = true # 顯示上一篇/下一篇文章連結
+  ShowToc = true # 預設顯示文章目錄
+  tocopen = false # 目錄預設為收合
 
+# 首頁歡迎詞與文章列表設定
+  [params.homeInfoParams]
+    Title = "慢富"
+    Content = "這是一個關於理財、投資與 AI 學習的筆記空間。"
+    # 如果你有大頭貼，可以把圖片放在 static/ 資料夾，並修改下面這行
+    # imageUrl = '/your-avatar.jpg' 
+
+# 頂部導覽列設定
 [[menu.main]]
-  name = "理財"
-  url = "/categories/理財"
+  identifier = "categories"
+  name = "分類"
+  url = "/categories/"
   weight = 10
 
 [[menu.main]]
-  name = "投資"
-  url = "/categories/投資"
+  identifier = "tags"
+  name = "標籤"
+  url = "/tags/"
   weight = 20
 
 [[menu.main]]
-  name = "AI學習"
-  url = "/categories/AI學習"
+  identifier = "search"
+  name = "搜尋"
+  url = "/search/"
   weight = 30
-
-[[menu.main]]
-  name = "關於我"
-  url = "/about"
-  weight = 40

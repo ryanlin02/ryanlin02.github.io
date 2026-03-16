@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>慢富</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on 慢富</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>zh-tw</language>
     <lastBuildDate>Mon, 16 Mar 2026 10:50:05 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,38 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 16 Mar 2026 10:50:05 +0800</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;這是我的第一篇文章章測試。&#xA;以下內容都是我用語音輸入的，所以可能會有很多錯字錯字。&#xA;不過不是很重要。&#xA;反正這一篇文章，只是用來測試的。&#xA;我現在想要測試在網路上建立一個完全免費的網站分享一些個人的理財基礎學習的一些紀錄。&#xA;還有使用AI工具的學習紀錄。&#xA;一直以來，我的理財就是單純的存錢。&#xA;隨著現在台積電的報漲。&#xA;很多人都在股票裡面賺了很多大錢。&#xA;才慢慢意識到。&#xA;慢慢存錢不會餓死，但是永遠也沒辦法變有錢。&#xA;賺錢的效率落差實在是太大了。&#xA;畢竟自己也沒有什麼賺大錢的能力。&#xA;所以想要來多學習。&#xA;也知道長年以來養成的觀念並沒有那麼容易修改。&#xA;所以想要做一個網站作為自己的筆記。&#xA;在必要的時候也可以複習，慢慢去修正自己的觀點。&#xA;以及投資理財的思維。&#xA;再加上現在有很厲害的AI工具。&#xA;希望兩者能夠相互相成。&#xA;讓自己學習得更快。&lt;/p&gt;</description>
+      <description>&lt;p&gt;##二級標題測試&lt;/p&gt;
+&lt;p&gt;這是我的第一篇文章章測試&lt;/p&gt;
+&lt;p&gt;以下內容都是我用語音輸入的，所以可能會有很多錯字錯字&lt;/p&gt;
+&lt;p&gt;不過不是很重要&lt;/p&gt;
+&lt;p&gt;反正這一篇文章，只是用來測試的&lt;/p&gt;
+&lt;p&gt;我現在想要測試在網路上建立一個完全免費的網站分享一些個人的理財基礎學習的一些紀錄&lt;/p&gt;
+&lt;p&gt;還有使用AI工具的學習紀錄&lt;/p&gt;
+&lt;p&gt;一直以來&lt;/p&gt;
+&lt;p&gt;我的理財就是單純的存錢&lt;/p&gt;
+&lt;p&gt;隨著現在台積電的報漲&lt;/p&gt;
+&lt;p&gt;很多人都在股票裡面賺了很多大錢&lt;/p&gt;
+&lt;p&gt;才慢慢意識到&lt;/p&gt;
+&lt;p&gt;慢慢存錢不會餓死，但是永遠也沒辦法變有錢&lt;/p&gt;
+&lt;p&gt;賺錢的效率落差實在是太大了&lt;/p&gt;
+&lt;p&gt;畢竟自己也沒有什麼賺大錢的能力&lt;/p&gt;
+&lt;p&gt;所以想要來多學習&lt;/p&gt;
+&lt;p&gt;也知道長年以來養成的觀念並沒有那麼容易修改&lt;/p&gt;
+&lt;p&gt;所以想要做一個網站作為自己的筆記&lt;/p&gt;
+&lt;p&gt;在必要的時候也可以複習&lt;/p&gt;
+&lt;p&gt;慢慢去修正自己的觀點&lt;/p&gt;
+&lt;p&gt;以及投資理財的思維&lt;/p&gt;
+&lt;p&gt;再加上現在有很厲害的AI工具&lt;/p&gt;
+&lt;p&gt;希望兩者能夠相輔相成&lt;/p&gt;
+&lt;p&gt;讓自己學習得更快&lt;/p&gt;
+&lt;p&gt;##列表測試&lt;/p&gt;
+&lt;p&gt;這一段是列表測試&lt;/p&gt;
+&lt;p&gt;1.台積電
+2.聯發科
+3.宏達電&lt;/p&gt;
+&lt;p&gt;*存股
+*理財
+*電腦使用學習&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
