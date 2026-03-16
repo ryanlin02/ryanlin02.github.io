@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 慢富</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 慢富</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 10:50:05 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇文章發布測試</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Mar 2026 10:50:05 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;這是我的第一篇文章章測試。&#xA;以下內容都是我用語音輸入的，所以可能會有很多錯字錯字。&#xA;不過不是很重要。&#xA;反正這一篇文章，只是用來測試的。&#xA;我現在想要測試在網路上建立一個完全免費的網站分享一些個人的理財基礎學習的一些紀錄。&#xA;還有使用AI工具的學習紀錄。&#xA;一直以來，我的理財就是單純的存錢。&#xA;隨著現在台積電的報漲。&#xA;很多人都在股票裡面賺了很多大錢。&#xA;才慢慢意識到。&#xA;慢慢存錢不會餓死，但是永遠也沒辦法變有錢。&#xA;賺錢的效率落差實在是太大了。&#xA;畢竟自己也沒有什麼賺大錢的能力。&#xA;所以想要來多學習。&#xA;也知道長年以來養成的觀念並沒有那麼容易修改。&#xA;所以想要做一個網站作為自己的筆記。&#xA;在必要的時候也可以複習，慢慢去修正自己的觀點。&#xA;以及投資理財的思維。&#xA;再加上現在有很厲害的AI工具。&#xA;希望兩者能夠相互相成。&#xA;讓自己學習得更快。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
