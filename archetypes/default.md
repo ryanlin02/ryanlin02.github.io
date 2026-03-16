@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "請在此輸入文章標題"
 date: {{ .Date }}
 draft: true
 description: "請在這裡輸入一句話總結這篇筆記（這會顯示在首頁文章列表）..."
