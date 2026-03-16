@@ -1,4 +1,30 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ryanlin02.github.io/'
 languageCode = 'en-us'
 title = '慢 富'
 theme = 'ananke'
+
+summaryLength = 50
+paginate = 30
+
+[params]
+  copyright = "© 2026 慢富 - 版權所有"
+
+[[menu.main]]
+  name = "理財"
+  url = "/categories/理財"
+  weight = 10
+
+[[menu.main]]
+  name = "投資"
+  url = "/categories/投資"
+  weight = 20
+
+[[menu.main]]
+  name = "AI學習"
+  url = "/categories/AI學習"
+  weight = 30
+
+[[menu.main]]
+  name = "關於我"
+  url = "/about"
+  weight = 40
