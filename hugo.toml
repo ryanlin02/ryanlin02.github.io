@@ -42,3 +42,6 @@ paginate = 10 # 首頁顯示的文章數量
   name = "搜尋"
   url = "/search/"
   weight = 30
+
+[markup.goldmark.renderer]
+  unsafe = true
